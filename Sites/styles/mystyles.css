@@ -1,0 +1,49 @@
+/* Este archivo no es necesario. Solo es para cambiar las propiedades de los objetos HTML
+Es mucho más fácil implementar una plantilla de Bootstrap que cambiar estas cosas a mano */
+
+body{
+    background: url('background.jpg');
+    background-size:cover;
+    height: 100%;
+    width: 100%;
+    overflow: scroll;
+    background-position: center center;}
+
+.card-content{
+    background-color: rgba(36,36,36,0.9);
+    padding: 1.5rem;}
+
+.colum#v1{
+    background-color: rgba(36,36,36,0.9);
+    padding: 1.5rem;}
+
+.box{
+    background-color: rgba(36,36,36,0.9);
+    padding: 1.5rem;}
+
+.table#v1{
+    background-color: rgba(36,36,36,0.9) ;
+    padding: 1.5rem;}
+
+.table#v1 td {
+    color: white;
+}
+ 
+.navbar{
+    background-color:rgba(36,36,36,0.9);
+}
+.hero-body#v1{
+    background-color:rgba(36,36,36,0.9);
+}
+
+label#v1 {
+    background-color:rgba(36,36,36,0.9);
+}
+
+.table#v2 {
+    background-color:black;
+}
+
+.table#v2 td {
+    color: white;
+}
